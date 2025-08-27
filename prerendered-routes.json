@@ -1,0 +1,10 @@
+{
+  "routes": {
+    "/Aganya_infra": {},
+    "/Aganya_infra/about": {},
+    "/Aganya_infra/contact": {},
+    "/Aganya_infra/home": {},
+    "/Aganya_infra/projects": {},
+    "/Aganya_infra/services": {}
+  }
+}
