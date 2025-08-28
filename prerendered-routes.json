@@ -1,0 +1,10 @@
+{
+  "routes": {
+    "/aganyainfra": {},
+    "/aganyainfra/about": {},
+    "/aganyainfra/contact": {},
+    "/aganyainfra/home": {},
+    "/aganyainfra/projects": {},
+    "/aganyainfra/services": {}
+  }
+}
